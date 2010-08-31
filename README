@@ -1,0 +1,20 @@
+This is a PHP example on how to use Pwned Platform.
+
+DOCUMENTATION: http://api.pwned.com/docs
+REQUIREMENTS:
+	-OAuth Pecl Library
+		- http://pecl.php.net/package/oauth
+
+This is a pretty straight forward example on how to use the Pecl OAuth library to make connections and access data through the API.
+
+HOW TO CREATE AN APPLICATION
+1) Register or Login to your Pwned.com account
+2) Go to http://api.pwned.com
+3) Create the application at http://api.pwned.com/newapp
+4) Fill out the required fields
+5) Redirects back and displays Consumer Secret/Consumer Key (save these keys)
+6) Use the example here to test :D
+
+RESOURCES: http://pwned.com/forums/viewforum.php?f=41
+
+TODO: Make a PHP Pwned Platform Wrapper for the API
